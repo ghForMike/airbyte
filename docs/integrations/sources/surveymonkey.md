@@ -1,6 +1,6 @@
 # SurveyMonkey
 
-This page guides you through the process of setting up the SurveyMonkey source connector.
+[SurveyMonkey](https://surveymonkey.com) is an online polling tool used to gather insights into market/brand research, customer/user experience, employee engagement, and other areas of interest to an organization or project. This page guides you through the process of setting up the SurveyMonkey source connector.
 
 :::note
 
